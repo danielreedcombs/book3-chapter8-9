@@ -1,0 +1,9 @@
+.flexy {
+    display: flex;
+    flex-flow: wrap;
+    align-content: space-around;    
+    flex-direction: column;
+    justify-content: center; 
+    border: 1px solid red;
+    border-radius: 0in;
+}
